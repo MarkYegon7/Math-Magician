@@ -1,176 +1,70 @@
-<a name="readme-top"></a>
+# Getting Started with Create React App
 
-<div align="center">
-  <br/>
-    <h1 style="font-size: 72px; font-weight: 900;"><b> Math Magician </b></h1>
-    <h2>Math Magician</h2>
-</div>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 📗 Table of Contents
+## Available Scripts
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+In the project directory, you can run:
 
-# 📖 [Math Magician] <a name="about-project"></a>
+### `npm start`
 
-> React web-application
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Math Magician** is a React App project 
-- This is a setup for the project
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🛠 Built With <a name="built-with"></a>
+### `npm test`
 
-### Tech Stack <a name="tech-stack"></a>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Key Features <a name="key-features"></a>
+### `npm run build`
 
-> features of the application.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- **GitHub-workflow**
-- **Responsive**
-- **Dynamic Content**
-- **Maintainable**
-- **Customizable**
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 🚀 Live Demo <a name="live-demo"></a>
+### `npm run eject`
 
-> Coming soon
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 💻 Getting Started <a name="getting-started"></a>
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-> Describtion of how a new developer could make use of this project.
+## Learn More
 
-### Prerequisites
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-NO Prerequisites needed for this project
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Setup
+### Code Splitting
 
-Clone this repository open it with GH desktop, or download it
-`Code -> HTTPS -> copy link | download zip | open on GH disktop app`
-['Math Magician' files URL link](https://github.com/MarkYegon7/Math-Magician)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Install
+### Analyzing the Bundle Size
 
-NO installation required
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Usage
+### Making a Progressive Web App
 
-You can use it as a book organizer for your own book shelves
-or for small book store
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Run tests
+### Advanced Configuration
 
-To run tests:
-Just check for linter, GH-workflows
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-No deployment required
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### `npm run build` fails to minify
 
-
-# 👥 Author <a name="author"></a>
-
-> Collaborators of this project.
-
-👤 Mark Yegon
-- GitHub: [MarkYegon7](https://github.com/MarkYegon7)
-- Email: [markyegonk@gmail.com]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Some future features gonna be added soon
-
-- [ ] **Sign up online**
-- [ ] **Newsletter Email**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🤝 Contributing <a name="contributing"></a>
-
-👤 **Contributors**
-
-> thanks for your effort, time and valuable contributions
-- 
-> Contributions, issues, and feature requests are welcome!
-
-
-🔭 **Issues**
-
-> Feel free to check the 
-[issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage the Author to continue development
-
-If you like this project your comments, messeges, and support are welcome.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> special thanks.
-
-Thank you,
-> to all code reviewers who guid us through this project.
-
-> to all cool people who master techs and still answeres tech questions.
-
-> to everyone who support us, inspired us, and teach us.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> questions that new developers may ask.
-
-- **Can I use it as a template for my Project?**
-
-  - yes you can use it, edit it and distribute it.
-
-- **how to edite it ?**
-
-  - if you know html, css, and Javascript you can easily edit it with any code editor
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
-
-This project is under [MIT](./LICENSE.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
