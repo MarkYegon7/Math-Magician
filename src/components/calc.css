@@ -9,17 +9,18 @@
 input {
   width: 97%;
   height: 4vh;
-  background-color: #80808080
+  background-color: #80808080;
 }
-  
+
 .calculator-display {
   text-align: right;
   margin-bottom: 10px;
 }
-  
+
 .calculator-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+
   /* gap: 10px; */
 }
 
