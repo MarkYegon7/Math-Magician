@@ -1,6 +1,20 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import './calc.css';
-// import Button from './Button';
+import Button from './Button';
+
+const CalculatorButton = ({ text, type }) => (
+  <Button text={text} type={type} />
+);
+
+CalculatorButton.propTypes = {
+  text: PropTypes.string.isRequired,
+  type: PropTypes.string,
+};
+
+CalculatorButton.defaultProps = {
+  type: '',
+};
 
 const Calculator = () => (
   <div className="calculator">
