@@ -8,12 +8,12 @@ const Button = ({ text, type }) => (
 );
 
 Button.propTypes = {
-  text: PropTypes.string.isRequired, // Validate "text" prop as a required string
-  type: PropTypes.string, // Validate "type" prop as an optional string
+  text: PropTypes.string.isRequired,
+  type: PropTypes.string,
 };
 
 Button.defaultProps = {
-  type: '', // Provide a default value for "type" prop
+  type: '',
 };
 
 export default Button;
