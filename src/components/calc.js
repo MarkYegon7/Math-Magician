@@ -1,21 +1,6 @@
-// import React from 'react';
-// import './calc.css';
-
-// const Calculator = () => (
-//   <div className="calculator">
-//     <div className="calculator-display">
-//       <input type="text" value="0" readOnly />
-//     </div>
-//     <div className="calculator-buttons">
-//       {/* Your calculator buttons go here */}
-//     </div>
-//   </div>
-// );
-
-// export default Calculator;
-
 import React from 'react';
 import './calc.css';
+// import Button from './Button';
 
 const Calculator = () => (
   <div className="calculator">
